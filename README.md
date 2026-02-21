@@ -206,7 +206,7 @@ Run:
 ```
 docker run -p 5477:5477 gauravsurolia/blk-hacking-ind-gaurav-surolia
 ```
-s
+
 ### Access API
 
 ```
