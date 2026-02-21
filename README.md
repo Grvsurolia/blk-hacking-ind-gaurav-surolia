@@ -300,6 +300,14 @@ http://localhost:5477/docs
 
 ---
 
+## Demo Video
+
+A short demonstration of the system running with Docker and API execution:
+
+```
+https://drive.google.com/file/d/1MSwcN-6x-NNT0jUjbfm9P9aVcKp-Nv1t/view?usp=drive_link
+```
+
 ## 📦 Submission Notes
 
 * Application runs on port **5477** inside container
