@@ -194,6 +194,16 @@ docker build -t blk-hacking-ind-gaurav-surolia .
 docker run -d -p 5477:5477 blk-hacking-ind-gaurav-surolia
 ```
 
+## Docker Image
+
+Public image available at:
+
+docker pull gauravsurolia/blk-hacking-ind-gaurav-surolia
+
+Run:
+
+docker run -p 5477:5477 gauravsurolia/blk-hacking-ind-gaurav-surolia
+
 ### Access API
 
 ```
